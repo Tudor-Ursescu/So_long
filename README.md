@@ -5,6 +5,8 @@
 2.[Core Features](#-core-features)
 3.[Game Features](#game-features)
 4.[Directory Structure](#-directory-structure)
+5.[Directory Descriptions](#-directory-description)
+6.[Compilation Instructions](#-compilation-instructions)
 
 ## 📌 Overview
 
