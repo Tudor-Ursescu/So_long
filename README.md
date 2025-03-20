@@ -1,12 +1,15 @@
 # So_long - Graphical 2D game developed using the MinilibX library
 
 ## Table of Contents
-1.[Overview](#overview)
+1.[Overview](#-overview)
 2.[Core Features](#-core-features)
-3.[Game Features](#game-features)
+3.[Game Features](#-game-features)
 4.[Directory Structure](#-directory-structure)
 5.[Directory Descriptions](#-directory-description)
 6.[Compilation Instructions](#-compilation-instructions)
+7.[Conclusion](#-conclusion)
+8.[License](#-license)
+9.[Author](#-author)
 
 ## 📌 Overview
 
@@ -66,3 +69,13 @@ And run the game:
 ./so_long `path/to/your/map.ber`
 ```
 Example: `./so_long maps/smal_enemy.ber`
+
+## 🎉 Conclusion
+Thank you for checking out So_long! This project has been a great opportunity to practice C programming, work with the MiniLibX library, and create an engaging graphical game.
+Enjoy the game, and may your priest escape the dungeon and live to read more scriptures! 📜 🔥
+
+## 📜 License
+This project is open-source
+
+## 👤 Author
+[**Tudor Ursescu**](https://github.com/Tudor-Ursescu)
