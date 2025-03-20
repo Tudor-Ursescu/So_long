@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/31 09:30:08 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/05 19:13:36 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:19 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 int	is_rectangular(t_game *game)
 {

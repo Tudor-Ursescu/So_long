@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/31 11:15:35 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/06 09:07:27 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:10 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 void	render_player(t_game *game, int x, int y)
 {

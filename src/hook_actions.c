@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/03 14:40:53 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/06 09:45:22 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:42 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 int	close_on_button(t_game *game)
 {

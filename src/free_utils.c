@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/02 17:27:41 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/06 11:26:41 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:56:56 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 void	free_list(t_map *head)
 {

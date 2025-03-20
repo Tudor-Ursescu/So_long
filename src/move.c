@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/06 09:22:25 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/06 10:47:36 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:21 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 t_map	*get_target_pos(t_map *map, int target_y)
 {

@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/02 11:31:51 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/05 19:11:53 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:17 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 int	is_wall_line(const char *line, size_t width)
 {

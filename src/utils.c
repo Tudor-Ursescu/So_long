@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/31 08:45:20 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/05 19:16:32 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:25 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 t_map	*create_node(char *line)
 {

@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/27 14:15:59 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/06 12:34:55 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 18:57:15 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../includes/so_long.h"
 
 void	good_input(t_game *game)
 {
