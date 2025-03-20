@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1.[Overview](#overview)
-2.[Core Features](#core-features)
+2.[Core Features](#-core-features)
 3.[Game Features](#game-features)
-4.[Directory Structure](#directory-structure)
+4.[Directory Structure](#-directory-structure)
 
 ## 📌 Overview
 
